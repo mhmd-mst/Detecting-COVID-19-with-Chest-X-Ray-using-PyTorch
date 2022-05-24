@@ -8,7 +8,7 @@ Download the dataset from kaggle [COVID-19 Radiography Database](https://www.kag
 * Pytorch >= 1.10.0
 
 # Dataset Visualization
-![samples](assests/sample.png)
+![samples](sample.png)
 
 # Predictions 
-![preds](assests/preds.png)
+![preds](preds.png)
